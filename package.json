@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "homepage": "https://<Sebastian1910>.github.io/<goit-react-hw-08-phonebook>/"
+    "homepage": "https://Sebastian1910.github.io/goit-react-hw-08-phonebook/"
   },
   "dependencies": {
     "@emotion/react": "^11.13.0",
