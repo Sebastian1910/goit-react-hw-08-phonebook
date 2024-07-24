@@ -27,7 +27,7 @@ const ContactList = () => {
   const handleEdit = (contact) => {
     setEditingId(contact.id);
     setEditedName(contact.name);
-    setEditedPhone(contact.number); // Upewnijmy się, że używamy odpowiedniej nazwy pola
+    setEditedPhone(contact.number);
   };
 
   const handleUpdate = (id) => {
